@@ -7,6 +7,7 @@ Victor Dubus-Chanson, Hexamind
 
 ## Description
 The goal of this project is to generate SQL queries from natural language questions using a large language model (LLM) with varying tweaks, in its architecture and through fine-tuning and other methods. The project was essentially made to be tested on the Spider benchmark, which is a large dataset of natural language questions and their corresponding SQL queries.
+[Here is a medium article](https://medium.com/@vdubuschanson/training-small-open-source-llm-for-text-to-sql-generation-7586d6084346) to better understand the goal and what was achieved in this project.
 
 ## Table of contents
 - [Authors](#authors)
