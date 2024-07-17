@@ -1,0 +1,22 @@
+
+base_model: meta-llama/Meta-Llama-3-8B-Instruct
+gate_mode: random
+dtype: bfloat16
+experts_per_token: 2
+experts:
+  - source_model: meta-llama/Meta-Llama-3-8B-Instruct
+    positive_prompts: []
+  - source_model: meta-llama/Meta-Llama-3-8B-Instruct
+    positive_prompts: []
+  - source_model: meta-llama/Meta-Llama-3-8B-Instruct
+    positive_prompts: []
+  - source_model: meta-llama/Meta-Llama-3-8B-Instruct
+    positive_prompts: []
+  - source_model: meta-llama/Meta-Llama-3-8B-Instruct
+    positive_prompts: []
+  - source_model: meta-llama/Meta-Llama-3-8B-Instruct
+    positive_prompts: []
+  - source_model: meta-llama/Meta-Llama-3-8B-Instruct
+    positive_prompts: []
+  - source_model: meta-llama/Meta-Llama-3-8B-Instruct
+    positive_prompts: []
