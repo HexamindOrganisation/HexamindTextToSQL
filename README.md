@@ -55,9 +55,3 @@ The goal of this project is to generate SQL queries from natural language questi
 - "utils.py" contains utilities necessary for various parts of the project, such as final dataset preparation, metrics calculation, generation checks, etc.
 
 ---
-
-### TODO
-- [ ] Remove default HF tokens
-- [ ] Add more information to the README
-- [ ] Add more information to the scripts
-- [ ] Remove default git configuration
